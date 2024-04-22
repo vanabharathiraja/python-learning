@@ -1,4 +1,4 @@
-Creating a comprehensive Python curriculum that transitions from basic to advanced levels is a great way to ensure a thorough understanding of the language. This curriculum can be structured to gradually increase in complexity, allowing learners to build their skills progressively. Here's a detailed outline that you can follow:
+A comprehensive Python curriculum that transitions from basic to advanced levels. This curriculum structured to gradually increase in complexity, allowing learners to build  skills progressively. 
 
 ### Part 1: Python Basics
 #### 1. **Introduction to Python**
