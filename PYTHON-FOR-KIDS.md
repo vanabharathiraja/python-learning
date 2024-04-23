@@ -7,7 +7,7 @@ Python curriculum for kids involves creating engaging, simple, and fun content t
    - Fun facts about Python (like its name coming from Monty Python)
 
 #### 2. **Setting Up**
-   - Installing Python (with the help of an adult)
+   - Installing Python (with the help of parents/teachers)
    - Introduction to an IDE (like IDLE or a simple one like Mu)
 
 #### 3. **Your First Python Program**
